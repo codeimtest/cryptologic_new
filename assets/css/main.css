@@ -2985,6 +2985,7 @@ button.timeline-nav-button:focus { outline: none; }
 .blog-item-img {
 	width:100%;
 	min-width: 324px;
+	padding-right: 20px;
 }
 .blog-item-row .date-time a{
 	margin-right: 0;
@@ -3027,9 +3028,7 @@ button.timeline-nav-button:focus { outline: none; }
 	position: relative;
 	margin-right: 25px;
 }
-.blog-item-row a{
-	margin-right: 20px;
-}
+
 .date-time a span::after{
 	content: '/';
 	width: 9px;
